@@ -4,7 +4,7 @@ A full-stack web application for managing todo tasks with a clean, modern interf
 
 ## 🎥 Demo Video
 
-![Application Demo](./demo/todo-app-demo.gif)
+![Application Demo](./demo/todo-app.gif)
 
 *Demo showing the complete user workflow: adding tasks, viewing recent tasks, and marking tasks as completed.*
 
