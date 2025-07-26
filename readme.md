@@ -660,9 +660,5 @@ fix(frontend): resolve task display issue
 docs(readme): update installation instructions
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ----
 *This application was developed as a technical assessment demonstrating full-stack development capabilities with modern web technologies and containerization practices.*
